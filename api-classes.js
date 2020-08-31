@@ -1,4 +1,4 @@
-console.log('api-classes js file connected');
+console.log('api-classes js file connected'); // Check on console log to see if file connected correctly. 
 const BASE_URL = "https://hack-or-snooze-v3.herokuapp.com";
 
 /**
